@@ -30,12 +30,7 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.tudo</groupId>
-			<artifactId>NoteTaker</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-	</dependencies>
+	</dependencies>	
 	<build>
 		<finalName>ToDoProject</finalName>
 	</build>
